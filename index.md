@@ -16,7 +16,7 @@ I programmed this fully-functional and playable game. The concept is simple but 
 the intelligence behind determine when the chips need to alternate colour. In terms of code volume, it was one of the
 larger projects that I had successfully finished.
 
- krazykanadian.github.io/othello_screenshot.png
+![Reversi screenshot](krazykanadian.github.io/othello_screenshot.png)
 
 ### Poker Game in QBASIC
 
@@ -24,6 +24,7 @@ Here is a poker game with a poker engine underneath that is able to detect poker
 the opponent. This is the classic poker game (prior to the craze of Texas Hold'em) where after the first round of cards
 are dealt, it is possible to exchange cards.
 
- krazykanadian.github.io/poker_screenshot.png 
+![Poker screenshot](krazykanadian.github.io/poker_screenshot.png)
+ 
 
 
