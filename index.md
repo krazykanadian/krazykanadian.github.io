@@ -15,9 +15,7 @@ back when I was playing around with JavaScript.
 
 ## Reversi Game in QBASIC
 
-I programmed this fully-functional and playable game. The concept is simple but it highlights the sophistication of
-the intelligence behind determine when the chips need to alternate colour. In terms of code volume, it was one of the
-larger projects that I had successfully finished.
+I programmed this fully-functional and playable game. The concept is simple but it highlights the intelligence to determine when the chips need to alternate colour. In terms of code volume, it was one of the larger projects that I had successfully finished.
 
 ![Reversi screenshot](https://krazykanadian.github.io/othello_screenshot.png)
 
@@ -32,8 +30,7 @@ are dealt, it is possible to exchange cards.
 ## Web Gallery in JavaScript
 
 Here are some screenshots from a web gallery that I implemented in JavaScript. Although conceptually very simple, there
-are many features to this web gallery that are interesting. This is a fully-functional web gallery with photo descriptions,
-thumbnails, themes, albums and page browsing that does not run on a database, which, although leads to several disadvantages, also has some interesting advantages. For example, the images can be stored anywhere on the internet. That means, that the web gallery can function with its stock images distributed anywhere on the internet.
+are many features to this web gallery that are interesting. This is a sophisticated fully-functional web gallery with photo descriptions, thumbnails, themes, albums and page browsing that does not run on a database, which, although leads to several disadvantages, also has some interesting advantages. For example, the images can be stored anywhere on the internet. That means, that the web gallery can function with images distributed anywhere on the internet.
 
 ![Web gallery index screenshot](https://krazykanadian.github.io/kgallery_index_screenshot.png)
 
